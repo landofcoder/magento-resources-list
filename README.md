@@ -21,7 +21,7 @@ If you want to **stay up to date with changes**, you can [subscribe to the month
 
 If you want to support Mageres, the [Mage-OS](https://mage-os.org/) project, and the Magento community in general, you can buy me a coffee.
 
-<a href="https://www.buymeacoffee.com/mageres" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/landofcoder" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 ## Table of Contents
 
 * [Official Resources](#official-resources)
